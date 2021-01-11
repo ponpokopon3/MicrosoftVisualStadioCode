@@ -1,0 +1,9 @@
+{
+  "asciidoc.preview.refreshInterval": 0,
+  "workbench.colorTheme": "Solarized Light",
+  "editor.minimap.side": "left",
+  "editor.minimap.showSlider": "always",
+  "workbench.tree.indent": 25,
+  "workbench.tree.renderIndentGuides": "always",
+  "editor.formatOnSave": true
+}
