@@ -1,9 +1,16 @@
 {
   "asciidoc.preview.refreshInterval": 0,
+  "asciidoc.preview.useEditorStyle": false,  
   "workbench.colorTheme": "Solarized Light",
-  "editor.minimap.side": "left",
-  "editor.minimap.showSlider": "always",
   "workbench.tree.indent": 25,
   "workbench.tree.renderIndentGuides": "always",
-  "editor.formatOnSave": true
+  "editor.minimap.side": "left",
+  "editor.minimap.showSlider": "always",
+  "editor.formatOnSave": true,
+  "editor.quickSuggestions": true,
+  "editor.snippetSuggestions": "top",
+  "editor.cursorStyle": "block",
+  "editor.mouseWheelZoom": true,
+  "editor.quickSuggestionsDelay": 0,
+  "editor.wordWrap": "on",
 }
